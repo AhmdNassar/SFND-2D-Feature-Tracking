@@ -1,3 +1,0 @@
-/media/ahmed/5AC05E6DC05E4F7F/programing/projects/My-projects/SFND/SFND_2D_Feature_Tracking-master/build/CMakeFiles/rebuild_cache.dir
-/media/ahmed/5AC05E6DC05E4F7F/programing/projects/My-projects/SFND/SFND_2D_Feature_Tracking-master/build/CMakeFiles/2D_feature_tracking.dir
-/media/ahmed/5AC05E6DC05E4F7F/programing/projects/My-projects/SFND/SFND_2D_Feature_Tracking-master/build/CMakeFiles/edit_cache.dir
